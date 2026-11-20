@@ -30,7 +30,7 @@ function Hero() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/K_MEDHASREE_Resume.pdf"
             className="btn-outline"
             download
           >
